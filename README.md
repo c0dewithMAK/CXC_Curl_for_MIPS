@@ -1,5 +1,5 @@
 # CXC_Curl_for_MIPS
-This repo talks about how one can cross compile curl executable for the Linux MIP32 Architecture
+This repo talks about how one can cross compile curl executable for the Linux MIPS32 Architecture
 
 Note: You need to have OpenSSL pre-installed and you should know the directory path where openssl.conf file is present. This path is to be used in 'curl_installation_for_linux_mips.sh' script.
 
